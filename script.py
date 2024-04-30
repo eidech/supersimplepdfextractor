@@ -1,5 +1,5 @@
 ######################################################
-### Attendance Letter File Splitter ##################
+### Super Simple PDF Scraper #########################
 ### Written by Christopher Eide, Technology ##########
 ### Integration Specialist, Trumbull Public Schools ##
 ### Initial Code Deposit: 30 Apr, 2024 ###############
